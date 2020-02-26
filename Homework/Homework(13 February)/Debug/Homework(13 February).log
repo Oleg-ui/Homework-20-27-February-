@@ -1,13 +1,13 @@
 ﻿  Source.cpp
-D:\Проекты(C++)\Homework\Homework(13 February)\Source.cpp(8,20): warning C4018: <: несоответствие типов со знаком и без знака
-D:\Проекты(C++)\Homework\Homework(13 February)\Source.cpp(11,21): warning C4018: <: несоответствие типов со знаком и без знака
-D:\Проекты(C++)\Homework\Homework(13 February)\Source.cpp(25,20): warning C4018: <: несоответствие типов со знаком и без знака
-D:\Проекты(C++)\Homework\Homework(13 February)\Source.cpp(27,21): warning C4018: <: несоответствие типов со знаком и без знака
-D:\Проекты(C++)\Homework\Homework(13 February)\Source.cpp(33,20): warning C4018: <: несоответствие типов со знаком и без знака
-D:\Проекты(C++)\Homework\Homework(13 February)\Source.cpp(35,21): warning C4018: <: несоответствие типов со знаком и без знака
-D:\Проекты(C++)\Homework\Homework(13 February)\Source.cpp(38,22): warning C4018: <: несоответствие типов со знаком и без знака
-D:\Проекты(C++)\Homework\Homework(13 February)\Source.cpp(54,20): warning C4018: <: несоответствие типов со знаком и без знака
-D:\Проекты(C++)\Homework\Homework(13 February)\Source.cpp(57,21): warning C4018: <: несоответствие типов со знаком и без знака
-D:\Проекты(C++)\Homework\Homework(13 February)\Source.cpp(71,20): warning C4018: <: несоответствие типов со знаком и без знака
-D:\Проекты(C++)\Homework\Homework(13 February)\Source.cpp(73,21): warning C4018: <: несоответствие типов со знаком и без знака
-  Homework(13 February).vcxproj -> D:\Проекты(C++)\Homework\Debug\Homework(13 February).exe
+C:\Users\Oleg\Desktop\Homework-20-27-February-\Homework\Homework(13 February)\Source.cpp(8,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Oleg\Desktop\Homework-20-27-February-\Homework\Homework(13 February)\Source.cpp(11,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Oleg\Desktop\Homework-20-27-February-\Homework\Homework(13 February)\Source.cpp(25,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Oleg\Desktop\Homework-20-27-February-\Homework\Homework(13 February)\Source.cpp(27,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Oleg\Desktop\Homework-20-27-February-\Homework\Homework(13 February)\Source.cpp(33,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Oleg\Desktop\Homework-20-27-February-\Homework\Homework(13 February)\Source.cpp(35,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Oleg\Desktop\Homework-20-27-February-\Homework\Homework(13 February)\Source.cpp(38,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Oleg\Desktop\Homework-20-27-February-\Homework\Homework(13 February)\Source.cpp(54,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Oleg\Desktop\Homework-20-27-February-\Homework\Homework(13 February)\Source.cpp(57,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Oleg\Desktop\Homework-20-27-February-\Homework\Homework(13 February)\Source.cpp(71,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Oleg\Desktop\Homework-20-27-February-\Homework\Homework(13 February)\Source.cpp(73,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Homework(13 February).vcxproj -> C:\Users\Oleg\Desktop\Homework-20-27-February-\Homework\Debug\Homework(13 February).exe

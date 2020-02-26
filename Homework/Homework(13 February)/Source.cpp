@@ -87,14 +87,17 @@ int main()
 {
 	setlocale(LC_ALL, "RUS");
 	vector<vector<int>> tmp = vector<vector<int>>(5);
-
+	vector<vector<bool>> matrix;
 	tmp[0] = { 1, 2, 3, 4 };
 	tmp[1] = { 0, 2, 4 };
 	tmp[2] = { 1 };
 	tmp[3] = { 0, 4 };
 	tmp[4] = { 0, 1, 3 };
 
+	
 	show(tmp);
-	show(f(tmp));
-	show(f(f(tmp)));
+	matrix = f(tmp);
+	show(matrix);
+	tmp = f(matrix);
+	show(tmp);
 }
