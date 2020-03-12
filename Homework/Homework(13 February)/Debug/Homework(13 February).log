@@ -1,14 +1,2 @@
-﻿  Source.cpp
-C:\Users\Oleg\Desktop\Homework-20-27-February-\Homework\Homework(13 February)\Source.cpp(10,20): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Oleg\Desktop\Homework-20-27-February-\Homework\Homework(13 February)\Source.cpp(13,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Oleg\Desktop\Homework-20-27-February-\Homework\Homework(13 February)\Source.cpp(27,20): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Oleg\Desktop\Homework-20-27-February-\Homework\Homework(13 February)\Source.cpp(29,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Oleg\Desktop\Homework-20-27-February-\Homework\Homework(13 February)\Source.cpp(35,20): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Oleg\Desktop\Homework-20-27-February-\Homework\Homework(13 February)\Source.cpp(37,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Oleg\Desktop\Homework-20-27-February-\Homework\Homework(13 February)\Source.cpp(40,22): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Oleg\Desktop\Homework-20-27-February-\Homework\Homework(13 February)\Source.cpp(56,20): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Oleg\Desktop\Homework-20-27-February-\Homework\Homework(13 February)\Source.cpp(59,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Oleg\Desktop\Homework-20-27-February-\Homework\Homework(13 February)\Source.cpp(73,20): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Oleg\Desktop\Homework-20-27-February-\Homework\Homework(13 February)\Source.cpp(75,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Oleg\Desktop\Homework-20-27-February-\Homework\Homework(13 February)\Source.cpp(106,21): warning C4018: <: несоответствие типов со знаком и без знака
+﻿  Queue-cycle-buffer.cpp
   Homework(13 February).vcxproj -> C:\Users\Oleg\Desktop\Homework-20-27-February-\Homework\Debug\Homework(13 February).exe

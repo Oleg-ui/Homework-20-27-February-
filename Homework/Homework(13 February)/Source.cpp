@@ -151,7 +151,7 @@ void bfs(vector<vector<int>> listG, int start)      //Поиск в ширину. Проходит п
 
 
 
-int main()
+/*int main()
 {
 	setlocale(LC_ALL, "RUS");
 	vector<vector<int>> tmp = vector<vector<int>>(5);
@@ -170,4 +170,4 @@ int main()
 	show(tmp);
 	dfs(tmp, 0);
 	bfs(tmp, 0);
-}
+}*/
